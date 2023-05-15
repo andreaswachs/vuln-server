@@ -1,4 +1,4 @@
-# vuln-service
+# vuln-server
 
 This is a docker container that exposes an HTTP service over port 80.
 
