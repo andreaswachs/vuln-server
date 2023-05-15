@@ -1,6 +1,6 @@
-# placeholder_vuln_server
+# vuln-service
 
-This is a docker container that exposes an HTTP service over port 8080.
+This is a docker container that exposes an HTTP service over port 80.
 
 The HTTP service exposes a directory containing the `flag.txt` file. The file contains a randomly generated flag.
 
